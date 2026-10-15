@@ -14,7 +14,7 @@
 
 ## 📚 Материалы
 
-- [Документация](https://example.com/docs) (гугл диск с документацией)
+- [Документация](https://drive.google.com/drive/folders/1z9pnelSFS7oEoK3RIU7oEZ9l0UfwFunt?usp=drive_link) (гугл диск с документацией)
 
 
 ## 📅 Ход работы
